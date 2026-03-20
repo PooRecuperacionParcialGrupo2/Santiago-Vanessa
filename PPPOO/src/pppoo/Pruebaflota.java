@@ -8,6 +8,6 @@ package pppoo;
  *
  * @author vanes
  */
-public class Vehiculos {
+public class Pruebaflota {
     
 }
